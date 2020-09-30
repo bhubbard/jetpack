@@ -136,6 +136,7 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 * Contact Form: add more integration settings for a better compatibility with Jetpack CRM.
 * Contact Form: ensure that forms are displayed correctly in legacy AMP Reader views.
 * Dashboard: remove plugin autoupdate settings from the dashboard now that WordPress itself handles this feature.
+* Embeds: ensure that Instagram and Facebook embeds are always available, to avoid breaking embeds on existing posts.
 * Embeds: solve PHP 8 compatibility issues with Crowdsignal embeds.
 * EventBrite Block: ensure full compatibility with the AMP plugin.
 * Google Calendar Block: ensure full compatibility with the AMP plugin.
